@@ -184,7 +184,6 @@ body {
 }
 
 .link-new {
-    float: left;
     display: inline-block;
     color: #6c6c6c;
     font-family: 'Montserrat';
@@ -558,7 +557,6 @@ body {
 }
 
 .f-text2 {
-    float: left;
     display: inline-block;
     width: 132px;
     height: 62px;
